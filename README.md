@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### My Interests
 
-Software development | Programming | AI | WIT
+Software development | Programming | AI | Women in Tech
 
 
 ### My Stats
