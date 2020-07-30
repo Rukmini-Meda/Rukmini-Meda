@@ -27,9 +27,8 @@ Software development | Programming | AI | Women in Tech
 
 ### My Stats
 
-<a href="https://github.com/Rukmini-Meda">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rukmini-Meda&show_icons=true" alt="Rukmini's GitHub Stats" />
-</a>
+![Rukmini's github stats](https://github-readme-stats.vercel.app/api?username=Rukmini-Meda&count_private=true&show_icons=true&theme=radical)
+
 
 
 ### Contact
