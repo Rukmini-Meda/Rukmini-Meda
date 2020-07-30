@@ -2,13 +2,6 @@
 
 Software development | Programming | AI
 
-<a href="https://www.linkedin.com/in/rukmini-meda-28042916a/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/rukmini_meda">
-  <img align="left" alt="Rukmini Meda| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
 ### About me 👩
 
 I am an undergraduate student at Indian Institute of Information Technology, Sri City. I work on web and android development projects. I ❤ contributing to open source.
