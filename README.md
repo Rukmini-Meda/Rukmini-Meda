@@ -23,3 +23,12 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=Rukmini-Meda&&show_icons=true&theme=radical&line_height=27&v=5" alt="Rukmini Meda's GitHub Stats" />
 
 
+### Contact
+
+<a href="https://www.linkedin.com/in/rukmini-meda-28042916a/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/rukmini_meda">
+  <img align="left" alt="Rukmini Meda| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
