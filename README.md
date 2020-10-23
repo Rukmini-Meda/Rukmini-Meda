@@ -2,7 +2,7 @@
 
 ### About me 👩
 
-I am an undergraduate student at Indian Institute of Information Technology, Sri City. I work on web and android development projects. I ❤ contributing to open source.
+I am an undergraduate student at Indian Institute of Information Technology, Sri City. I work on web and flutter development projects. I ❤ contributing to open source.
 
 
 <!--
