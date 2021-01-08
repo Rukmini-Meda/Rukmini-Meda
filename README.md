@@ -24,7 +24,11 @@ Here are some ideas to get you started:
 
 ![Rukmini's github stats](https://github-readme-stats.vercel.app/api?username=Rukmini-Meda&count_private=true&show_icons=true&theme=radical)
 
+### Problem Solving
 
+[StopStalk Profile - Contains my competitive programming progress at various platforms](https://www.stopstalk.com/user/profile/rukminimeda)
+
+[Leetcode Profile](https://leetcode.com/rukmini_meda/)
 
 ### My Interests
 
