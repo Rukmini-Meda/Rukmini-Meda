@@ -4,13 +4,14 @@
 
 I am an undergraduate student at Indian Institute of Information Technology, Sri City. I work on web and flutter development projects. I ❤ contributing to open source.
 
+- 🔭 I’m currently learning MERN stack and Deep Learning
 
 <!--
 **Rukmini-Meda/Rukmini-Meda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a flutter project
+
 
 ### Technical Skills
 <img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat"> <br />
