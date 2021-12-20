@@ -2,15 +2,16 @@
 
 ### About me 👩
 
-I am an undergraduate student at Indian Institute of Information Technology, Sri City. I work on web and flutter development projects. I ❤ contributing to open source.
-
-- 🔭 I’m currently learning MERN stack and Deep Learning
+- I'm an undergraduate student at Indian Institute of Information Technology, Sri City. 
+- I'm a full stack and flutter developer.
+- I'm on a quest to write clean and error free code.
+- I'm also interested in Deep Learning, Applied Science and Mathematics.
+- Ping me if you wanna have a short chat about anything in Tech!
 
 <!--
 **Rukmini-Meda/Rukmini-Meda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 
 
 ### Technical Skills
